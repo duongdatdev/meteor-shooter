@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: 90eb5d2f7c35f5b4585a46a61fb975ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1408296156674684932
+    second: asteroid_explosion_03_0
+  - first:
+      213: -2236875947644670019
+    second: asteroid_explosion_03_1
+  - first:
+      213: 202004650505699518
+    second: asteroid_explosion_03_2
+  - first:
+      213: 2162191779943138563
+    second: asteroid_explosion_03_3
+  - first:
+      213: 6805986776608366415
+    second: asteroid_explosion_03_4
+  - first:
+      213: 706509832684349415
+    second: asteroid_explosion_03_5
+  - first:
+      213: 8259232247122135516
+    second: asteroid_explosion_03_6
+  - first:
+      213: 2202367635294487551
+    second: asteroid_explosion_03_7
+  - first:
+      213: 7854088797083902810
+    second: asteroid_explosion_03_8
+  - first:
+      213: -2101563203915309844
+    second: asteroid_explosion_03_9
+  - first:
+      213: 6154493817720040948
+    second: asteroid_explosion_03_10
+  - first:
+      213: 7961889739217725604
+    second: asteroid_explosion_03_11
+  - first:
+      213: 3487192301627980631
+    second: asteroid_explosion_03_12
+  - first:
+      213: 1192975677153327980
+    second: asteroid_explosion_03_13
+  - first:
+      213: 8465889263946337063
+    second: asteroid_explosion_03_14
+  - first:
+      213: 4815351107093564496
+    second: asteroid_explosion_03_15
+  - first:
+      213: -3434784368691157790
+    second: asteroid_explosion_03_16
+  - first:
+      213: 4037383973935544458
+    second: asteroid_explosion_03_17
+  - first:
+      213: -5923796679520134918
+    second: asteroid_explosion_03_18
+  - first:
+      213: -4512940783431876178
+    second: asteroid_explosion_03_19
+  - first:
+      213: 8012746102501483473
+    second: asteroid_explosion_03_20
+  - first:
+      213: -1460881617966280171
+    second: asteroid_explosion_03_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: asteroid_explosion_03_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 51
+        width: 191
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf78bd26b1ab47ce0800000000000000
+      internalID: -1408296156674684932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_explosion_03_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 207
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf26065d2505f0e0800000000000000
+      internalID: -2236875947644670019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_explosion_03_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 195
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb08e5cc82aadc200800000000000000
+      internalID: 202004650505699518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_explosion_03_3
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 203
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305c7c3d7f5a10e10800000000000000
+      internalID: 2162191779943138563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_explosion_03_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 189
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f5fb5e9e8b37e50800000000000000
+      internalID: 6805986776608366415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_explosion_03_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 166
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7a87713f60ec900800000000000000
+      internalID: 706509832684349415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_explosion_03_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 161
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd98a2f28ffae9270800000000000000
+      internalID: 8259232247122135516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_explosion_03_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 136
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff38b8612b1609e10800000000000000
+      internalID: 2202367635294487551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_explosion_03_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 146
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53af80f5245ffc60800000000000000
+      internalID: 7854088797083902810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_explosion_03_9
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 139
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec989d866fb5d2e0800000000000000
+      internalID: -2101563203915309844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_explosion_03_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 128
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd6a81f487296550800000000000000
+      internalID: 6154493817720040948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_explosion_03_11
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 133
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a866eea8805e7e60800000000000000
+      internalID: 7961889739217725604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_explosion_03_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 102
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b33022ceef46030800000000000000
+      internalID: 3487192301627980631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_explosion_03_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 118
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bb766ce0d4e8010800000000000000
+      internalID: 1192975677153327980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_explosion_03_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 86
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b805d6e61ec7570800000000000000
+      internalID: 8465889263946337063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_explosion_03_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 92
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c881fa15093d240800000000000000
+      internalID: 4815351107093564496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_explosion_03_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 55
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e46910a0d13550d0800000000000000
+      internalID: -3434784368691157790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_explosion_03_17
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 46
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a887844555ba70830800000000000000
+      internalID: 4037383973935544458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_explosion_03_18
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 41
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8509b3e427acda0800000000000000
+      internalID: -5923796679520134918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_explosion_03_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 47
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea18b2f9440de51c0800000000000000
+      internalID: -4512940783431876178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_explosion_03_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 42
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d32ffa702ef23f60800000000000000
+      internalID: 8012746102501483473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_explosion_03_21
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 41
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512d83698e7e9bbe0800000000000000
+      internalID: -1460881617966280171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      asteroid_explosion_03_0: -1408296156674684932
+      asteroid_explosion_03_1: -2236875947644670019
+      asteroid_explosion_03_10: 6154493817720040948
+      asteroid_explosion_03_11: 7961889739217725604
+      asteroid_explosion_03_12: 3487192301627980631
+      asteroid_explosion_03_13: 1192975677153327980
+      asteroid_explosion_03_14: 8465889263946337063
+      asteroid_explosion_03_15: 4815351107093564496
+      asteroid_explosion_03_16: -3434784368691157790
+      asteroid_explosion_03_17: 4037383973935544458
+      asteroid_explosion_03_18: -5923796679520134918
+      asteroid_explosion_03_19: -4512940783431876178
+      asteroid_explosion_03_2: 202004650505699518
+      asteroid_explosion_03_20: 8012746102501483473
+      asteroid_explosion_03_21: -1460881617966280171
+      asteroid_explosion_03_3: 2162191779943138563
+      asteroid_explosion_03_4: 6805986776608366415
+      asteroid_explosion_03_5: 706509832684349415
+      asteroid_explosion_03_6: 8259232247122135516
+      asteroid_explosion_03_7: 2202367635294487551
+      asteroid_explosion_03_8: 7854088797083902810
+      asteroid_explosion_03_9: -2101563203915309844
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

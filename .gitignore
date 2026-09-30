@@ -84,6 +84,15 @@ mono_crash.*
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Sprite Forge generation workspace (production art lives in Assets/Art)
+.sprite-forge/
+
+# Local visual/test review artifacts
+Assets/Screenshots/
+Assets/Screenshots.meta
+Assets/Resources/PerformanceTestRun*
+Assets/Resources.meta
+
 # TestRunner generated files
 InitTestScene*.unity*
 
